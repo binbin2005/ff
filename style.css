@@ -356,23 +356,27 @@ body {
 }
 
 /* Styling untuk tombol musik di kanan bawah */
-.music-btn {
+/* .music-btn {
   position: fixed;
   bottom: 20px;
   right: 20px;
   background: none;
   border: none;
-  font-size: 3rem; /* ukuran ikon */
-  color: #b14565; /* warna ikon */
-  cursor: pointer;
+  font-size: 3rem;  */
+  /* ukuran ikon */
+/*   color: #b14565;  */
+  /* warna ikon */
+/*   cursor: pointer;
   transition: transform 0.3s ease, color 0.3s ease;
   outline: none;
-  display: none; /* awalnya disembunyikan */
+  display: none;  */
+  /* awalnya disembunyikan */
 }
 
-.music-btn:hover {
+/* .music-btn:hover {
   transform: scale(1.2);
-  color: #e06c88; /* warna saat hover */
+  color: #e06c88; */
+  /* warna saat hover */
 }
 
 /* media query */
